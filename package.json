@@ -1,0 +1,35 @@
+{
+  "name": "@xiphe/print-html",
+  "version": "0.1.0",
+  "description": "nodejs helper to print a html document into a local file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Xiphe/print-html.git"
+  },
+  "keywords": [
+    "print",
+    "html",
+    "pdf",
+    "middleware",
+    "static",
+    "nodejs"
+  ],
+  "author": "Hannes Diercks <print-html@xiphe.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Xiphe/print-html/issues"
+  },
+  "homepage": "https://github.com/Xiphe/print-html#readme",
+  "devDependencies": {
+    "eslint": "5.10.0",
+    "eslint-config-airbnb-base": "13.1.0",
+    "eslint-config-prettier": "3.3.0",
+    "eslint-plugin-import": "2.14.0",
+    "eslint-plugin-prettier": "3.0.0",
+    "prettier": "1.15.3"
+  }
+}
