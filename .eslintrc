@@ -5,5 +5,11 @@
   },
   "rules": {
     "arrow-body-style": 0
-  }
+  },
+  "overrides": [
+    {
+      "files": "**/*spec.js",
+      "env": { "jest": true }
+    }
+  ]
 }
